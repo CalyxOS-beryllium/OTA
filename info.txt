@@ -1,0 +1,1 @@
+2.6.1 1623245004 RQ3A.210605.005 https://sourceforge.net/projects/rombuilds/files/CalyxOS/calyx_beryllium-2.5.0.zip/download
